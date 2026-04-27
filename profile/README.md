@@ -30,7 +30,6 @@ These plugins handle:
 Supported platforms include:
 - Velocity
 - Bungee
-  
 - Paper
 - Folia
 - (More platforms are being added)
