@@ -68,10 +68,10 @@ If you're looking to:
 
 ## Support
 Need help?
-Docs: https://docs.mcmetrics.net
-Dashboard: https://app.mcmetrics.net
-Discord: https://discord.gg/mcmetrics
-Email: help@hoglin.gg
+- Docs: https://docs.mcmetrics.net
+- Dashboard: https://app.mcmetrics.net
+- Discord: https://discord.gg/mcmetrics
+- Email: help@hoglin.gg
 
 ### About
 MCMetrics is built and operated by Waypoint Studios Ltd, a UK-based company focused on helping UGC creators thrive.
