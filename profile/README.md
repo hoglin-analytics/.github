@@ -1,9 +1,9 @@
 MCMetrics is a powerful analytics platform designed for Minecraft servers. It gives you clear, actionable insights into your players, helping you grow your server, improve retention, and make smarter decisions backed by real data.
 
 ## Get Started
-Sign up: https://app.mcmetrics.net/auth/signup
-Documentation: https://docs.mcmetrics.net
-Plugins: https://github.com/hoglin-analytics/MCMetrics-Plugins
+- Sign up: https://app.mcmetrics.net/auth/signup
+- Documentation: https://docs.mcmetrics.net
+- Plugins: https://github.com/hoglin-analytics/MCMetrics-Plugins
 
 ## What is MCMetrics?
 MCMetrics collects anonymized data from your Minecraft server and turns it into meaningful analytics, including:
